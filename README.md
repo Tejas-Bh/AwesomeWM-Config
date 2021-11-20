@@ -1,5 +1,4 @@
 # AwesomeWM-Config
-=====
 
 This is my personal AwesomeWM Config for anyine who wants to take a look at it and make their own.
 
